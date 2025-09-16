@@ -1,0 +1,9 @@
+top to bottom
+condition , float - only then run
+else - not run
+for this we use control statment
+if , else 
+loops
+nested loops
+infinte loops
+statements - continue , break etc
