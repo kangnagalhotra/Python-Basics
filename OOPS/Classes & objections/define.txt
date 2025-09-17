@@ -1,0 +1,7 @@
+class is a blueprint for creating objects
+map-class
+house - object
+object are actual instance of class
+
+class = how to make car
+object = when actual car will be made

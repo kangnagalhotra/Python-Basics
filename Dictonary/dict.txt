@@ -1,0 +1,22 @@
+Python Dictonary
+1 - Defination & Characterstics
+    key value pairs
+    unorded before 3.7version of python
+    Mutuable , Dynamic
+2 - Creation
+    Using {}
+    Using dict() constructor
+3- Operators
+    Adding
+    Updating
+    Deleting
+4-Dictonary Methods
+    get(),key(),values(),items()
+    pop(),popitem(),clear()
+5-Comprehensions
+    Dictonary Comprehensions
+6-Nested Dictonaries
+7-Common Use cases
+
+pairs 
+1 pair ->key:value

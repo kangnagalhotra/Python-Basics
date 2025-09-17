@@ -1,0 +1,4 @@
+1 . Ordered
+2. can store any datatypes together in one list unlike array (Hetrogenous)
+3. Mutuable (can make changes in list even after creation)
+4. Dynamic (can inc or dec elememts (size shrink))

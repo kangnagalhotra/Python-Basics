@@ -1,0 +1,11 @@
+1- immutuable
+2-Hetrogenous (multiple datatypes)
+3 - use () to create
+
+len()
+sort()
+min()
+max()
+count()
+index()
+slice()
