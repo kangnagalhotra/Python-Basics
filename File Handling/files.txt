@@ -1,0 +1,2 @@
+1. Text Files(.csv,.txt)
+2. binary files(png,jpeg,pdf nontext data)

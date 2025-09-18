@@ -1,0 +1,34 @@
+
+Compile time errors
+ Run time errors
+Logical errors
+
+Exception Handling
+
+Exception - >
+1. after start of program
+2. Detailed message like warning
+3. you can catch Exception and hanle it
+
+try--Except
+try block - where you write code , where error can be raise that code to write in try block
+Except block - tells if error comes what you have to do
+
+🔹 try block
+You put the code that might raise an error inside try.
+Python will try to run it.
+If no error happens → it runs normally.
+If an error happens → it jumps to the except block.
+🔹 except block
+This tells Python what to do if an error occurs.
+You can catch a specific error type (e.g., ZeroDivisionError) or a general error (Exception).
+🔹 finally block
+Code inside finally always runs, no matter what:
+If there’s no error → it runs.
+If there’s an error → it still runs (after except).
+It’s often used for cleanup tasks like closing files, releasing resources, disconnecting from databases, etc.
+🔹Nested try-except block
+It simply means a try-except block inside another try-except block.
+Useful when you want to handle different levels of errors separately.
+Outer try-except: handles high-level errors.
+Inner try-except: handles more specific/local errors.

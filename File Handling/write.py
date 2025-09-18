@@ -1,0 +1,5 @@
+file = open("/Users/kanganagalhotra/Desktop/Python/File Handling/file2.txt",'w')
+content = input("Enter the data to run: ")
+file.write(content)
+print("Data saved")
+file.close()
