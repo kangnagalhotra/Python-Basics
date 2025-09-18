@@ -10,12 +10,13 @@ Each topic is explained with simple code examples inside dedicated folders — p
 - **Operations/** → Variables, data types, type conversion, operators  
 - **Control_Statement/** → if-else, loops, nested conditions, break/continue/pass  
 - **String/** → String operations, slicing, formatting, common methods  
-- **Lists_Tuples/** → list and tuple basics, indexing, methods  
-- **Dictionary/** →  key-value pairs, dictionary methods  
-- **Functions/** →  defining functions, arguments, return values  
+- **Lists/** → list basics, indexing, methods
+- **Tuples/** → Tuple basics, indexing, methods
+- **Dictionary/** → key-value pairs, dictionary methods  
+- **Functions/** → defining functions, arguments, return values  
 - **OOP/** → classes, objects, inheritance, polymorphism , encapsulation , abstraction
-- **Exception_Handling/** → (Coming soon) try-except, custom exceptions  
-- **File_Handling/** → (Coming soon) reading & writing files, working with CSV  
+- **Exception_Handling/** → try-except, custom exceptions  
+- **File_Handling/** → reading & writing files, working with CSV  
 
 ---
 
